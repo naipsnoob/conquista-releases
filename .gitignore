@@ -1,0 +1,7 @@
+*.exe
+*.rar
+*.zip
+*.nupkg
+*.log
+.env
+*.token
